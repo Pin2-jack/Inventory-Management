@@ -1,0 +1,12 @@
+Samsung S10,51.0,51000.0,East
+Samsung Tab S6,5,2500,South
+Samsung LED 42",8,4000,East
+iPhone 7,2,2000,West
+iphone 11 Pro MAx,20,20000,West
+Google Pixel 5,25,25000,South
+iphone 11 Pro,100,100000,West
+East,30.0,30000.0,East
+West,11.0,5500.0,West
+South,10.0,5000.0,South
+iPhone 8,3,3000,East
+iPhone 6S,5,5000,South

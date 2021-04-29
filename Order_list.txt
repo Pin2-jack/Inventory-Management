@@ -1,0 +1,12 @@
+East WareHouse:
+Samsung Tab S6,5.0,2500.0
+Samsung LED 42",8.0,4000.0
+East,2.0,2000.0
+
+West WareHouse:
+East,2.0,2000.0
+iPhone 8,2.0,2000.0
+
+South WareHouse:
+South, 2.0,1000.0
+iPhone 8, 2.0,2000.0

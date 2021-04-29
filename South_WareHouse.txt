@@ -1,0 +1,9 @@
+Samsung S10,50.0,50000.0
+iphone 11 Pro,10.0,10000.0
+Samsung Tab S6,10.0,5000.0
+Samsung LED 42",20.0,10000.0
+iphone 11 Pro MAx,20.0,20000.0
+Google Pixel 5,25.0,25000.0
+South,2.0,1000.0
+iPhone 6S,12.0,12000.0
+iPhone 8,2.0,2000.0
